@@ -1,0 +1,5 @@
+C:\Python\AbstractBase\AbstractBase\bin\Debug\AbstractBase.exe
+C:\Python\AbstractBase\AbstractBase\bin\Debug\AbstractBase.pdb
+C:\Python\AbstractBase\AbstractBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Python\AbstractBase\AbstractBase\obj\Debug\AbstractBase.exe
+C:\Python\AbstractBase\AbstractBase\obj\Debug\AbstractBase.pdb

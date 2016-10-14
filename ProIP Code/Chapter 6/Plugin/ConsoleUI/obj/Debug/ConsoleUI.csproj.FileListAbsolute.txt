@@ -1,0 +1,11 @@
+C:\Python\Plugin\ConsoleUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Python\Plugin\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Python\Plugin\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Python\Plugin\ConsoleUI\bin\Debug\IPEngine.dll
+C:\Python\Plugin\ConsoleUI\bin\Debug\Microsoft.Scripting.Core.dll
+C:\Python\Plugin\ConsoleUI\bin\Debug\Microsoft.Scripting.ExtensionAttribute.dll
+C:\Python\Plugin\ConsoleUI\bin\Debug\Microsoft.Scripting.dll
+C:\Python\Plugin\ConsoleUI\bin\Debug\IronPython.dll
+C:\Python\Plugin\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Python\Plugin\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Python\Plugin\ConsoleUI\bin\Debug\IPEngine.pdb

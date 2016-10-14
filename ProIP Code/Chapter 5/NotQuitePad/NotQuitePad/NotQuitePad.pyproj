@@ -1,0 +1,66 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{de55e9c4-a9ae-49d7-805b-1463d30e717a}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NotQuitePad</RootNamespace>
+    <AssemblyName>NotQuitePad</AssemblyName>
+    <MainFile>Program.py</MainFile>
+    <Name>NotQuitePad</Name>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Release\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IPEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <Name>IPEngine</Name>
+      <AssemblyName>IPEngine.dll</AssemblyName>
+      <HintPath>..\..\Plugin\IPEngine\bin\Debug\IPEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="IronPython, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <Name>IronPython</Name>
+      <AssemblyName>IronPython.dll</AssemblyName>
+      <HintPath>..\..\..\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PublicAssemblies\IronPython.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="business\document.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="business\fileOperations.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="business\interface.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NotQuitePad.py">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="NotQuitePad.resx">
+      <DependentUpon>NotQuitePad.py</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="business" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\IronPython Studio\1.0\IronPython.targets" />
+</Project>

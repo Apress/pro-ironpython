@@ -1,0 +1,10 @@
+C:\Python\Plugin\IPEngine\bin\Debug\IPEngine.dll
+C:\Python\Plugin\IPEngine\bin\Debug\IPEngine.pdb
+C:\Python\Plugin\IPEngine\bin\Debug\IronPython.dll
+C:\Python\Plugin\IPEngine\bin\Debug\IronPython.Modules.dll
+C:\Python\Plugin\IPEngine\bin\Debug\Microsoft.Scripting.Core.dll
+C:\Python\Plugin\IPEngine\bin\Debug\Microsoft.Scripting.dll
+C:\Python\Plugin\IPEngine\bin\Debug\Microsoft.Scripting.ExtensionAttribute.dll
+C:\Python\Plugin\IPEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Python\Plugin\IPEngine\obj\Debug\IPEngine.dll
+C:\Python\Plugin\IPEngine\obj\Debug\IPEngine.pdb

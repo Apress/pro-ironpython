@@ -1,0 +1,18 @@
+C:\Python\NotQuitePad\NotQuitePad\bin\Debug\NotQuitePad.exe
+C:\Python\NotQuitePad\NotQuitePad\bin\Debug\NotQuitePad.pdb
+C:\Python\NotQuitePad\NotQuitePad\bin\Debug\IronPython.dll
+C:\Python\NotQuitePad\NotQuitePad\obj\Debug\ResolveAssemblyReference.cache
+C:\Python\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.NotQuitePad.resources
+C:\Python\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.pyproj.GenerateResource.Cache
+C:\Python\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.exe
+C:\Python\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.pdb
+C:\Python\NotQuitePad\NotQuitePad\bin\Debug\IronMath.dll
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\bin\Debug\NotQuitePad.exe
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\bin\Debug\NotQuitePad.pdb
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\bin\Debug\IronPython.dll
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\bin\Debug\IronMath.dll
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.NotQuitePad.resources
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.pyproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.exe
+C:\Users\Alan\Desktop\ProIP Code\Chapter 5\NotQuitePad\NotQuitePad\obj\Debug\NotQuitePad.pdb

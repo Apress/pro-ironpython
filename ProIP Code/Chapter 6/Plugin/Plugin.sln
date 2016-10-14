@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{10478A8F-35E2-4A72-8D8B-1B9F1AD91C67}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7AB291E9-A1AB-4B56-8E61-F545948DE2AE} = {7AB291E9-A1AB-4B56-8E61-F545948DE2AE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPEngine", "IPEngine\IPEngine.csproj", "{7AB291E9-A1AB-4B56-8E61-F545948DE2AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{194C8668-5CBB-427F-82B4-6A81A4160025}"
+	ProjectSection(SolutionItems) = preProject
+		p1Handler.py = p1Handler.py
+		p2Handler.py = p2Handler.py
+		pluginParameters.py = pluginParameters.py
+		pluginTest.py = pluginTest.py
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSWatcher", "FSWatcher\FSWatcher.csproj", "{C8BCF56D-3AE2-4A1B-8809-37242B19B21B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7AB291E9-A1AB-4B56-8E61-F545948DE2AE} = {7AB291E9-A1AB-4B56-8E61-F545948DE2AE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10478A8F-35E2-4A72-8D8B-1B9F1AD91C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10478A8F-35E2-4A72-8D8B-1B9F1AD91C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10478A8F-35E2-4A72-8D8B-1B9F1AD91C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10478A8F-35E2-4A72-8D8B-1B9F1AD91C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB291E9-A1AB-4B56-8E61-F545948DE2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB291E9-A1AB-4B56-8E61-F545948DE2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB291E9-A1AB-4B56-8E61-F545948DE2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB291E9-A1AB-4B56-8E61-F545948DE2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BCF56D-3AE2-4A1B-8809-37242B19B21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BCF56D-3AE2-4A1B-8809-37242B19B21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BCF56D-3AE2-4A1B-8809-37242B19B21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BCF56D-3AE2-4A1B-8809-37242B19B21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

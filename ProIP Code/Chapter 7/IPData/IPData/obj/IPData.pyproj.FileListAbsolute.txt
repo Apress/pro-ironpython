@@ -1,0 +1,9 @@
+C:\Python\IPData\IPData\bin\Debug\IPData.exe
+C:\Python\IPData\IPData\bin\Debug\IPData.pdb
+C:\Python\IPData\IPData\bin\Debug\IronPython.dll
+C:\Python\IPData\IPData\bin\Debug\IronMath.dll
+C:\Python\IPData\IPData\obj\Debug\ResolveAssemblyReference.cache
+C:\Python\IPData\IPData\obj\Debug\IPData.Form1.resources
+C:\Python\IPData\IPData\obj\Debug\IPData.pyproj.GenerateResource.Cache
+C:\Python\IPData\IPData\obj\Debug\IPData.exe
+C:\Python\IPData\IPData\obj\Debug\IPData.pdb
